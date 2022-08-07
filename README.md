@@ -15,7 +15,26 @@
 
 <details>
 
-<summary>2. Mathematics for Machine Learning: Linear Algebra</summary>
+<summary>2. Machine Learning Specialization</summary>
+
+* Link: https://www.coursera.org/learn/machine-learning
+* Description: a set of courses by Andrew Ng.
+* Note: might be unavailable on Coursera because of its policy changes.
+
+</details>
+
+<details>
+
+<summary>3. Открытый курс машинного обучения</summary>
+
+* Ссылка: https://ods.ai/tracks/open-ml-course
+* Описание: курс от активных членов сообщества Open Data Science.
+
+</details>
+
+<details>
+
+<summary>4. Mathematics for Machine Learning: Linear Algebra</summary>
 
 * Link: https://www.coursera.org/learn/linear-algebra-machine-learning
 * Description:
@@ -33,7 +52,7 @@
 
 <details>
 
-<summary>3. Mathematics for Machine Learning: Multivariate Calculus</summary>
+<summary>5. Mathematics for Machine Learning: Multivariate Calculus</summary>
 
 * Link: https://www.coursera.org/learn/multivariate-calculus-machine-learning
 * Description:
@@ -47,7 +66,7 @@
 
 <details>
 
-<summary>4. Amazon Machine Learning University</summary>
+<summary>6. Amazon Machine Learning University</summary>
 
 * Link: https://aws.amazon.com/ru/machine-learning/mlu/
 
@@ -180,6 +199,32 @@
 
 </details>
 
+<details>
+
+<summary>3. Dive into Deep Learning</summary>
+
+* Authors: mostly Amazon and Google employees
+* Link: http://d2l.ai/
+* Description:
+     ```
+     Interactive deep learning book with code, math, and discussions.
+     ```
+
+</details>
+
+<details>
+
+<summary>4. Neural Networks and Deep Learning</summary>
+
+* Authors: Michael Nielsen
+* Link: http://neuralnetworksanddeeplearning.com/
+* Description:
+     ```
+     Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you many of the core concepts behind neural networks and deep learning.
+     ```
+
+</details>
+
 ## Natural Language Processing
 
 ### Courses
@@ -274,6 +319,29 @@
 
 </details>
 
+## Data Analysis
+
+### Courses
+
+<details>
+
+<summary>1. Прикладные задачи анализа данных</summary>
+
+* Авторы: Александр Дьяконов (ВМК, МГУ имени М.В. Ломоносова)
+* Ссылка: https://github.com/Dyakonov/PZAD
+
+</details>
+
+### Books
+
+<details>
+
+<summary>1. Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing</summary>
+
+* Authors: Ron Kohavi
+
+</details>
+
 ## Data Engineering
 
 ### Courses
@@ -284,5 +352,64 @@
 
 * Link: https://github.com/DataTalksClub/data-engineering-zoomcamp
 * Description: free Data Engineering course from DataTalks.Club.
+
+</details>
+
+# Other
+
+## Python
+
+<details>
+
+<summary>1. JetBrains Academy</summary>
+
+* Link: https://hyperskill.org/
+* Description: <i>paid</i> Python, SQL, and even math courses by JetBrains.
+
+</details>
+
+<details>
+
+<summary>2. Курс информатики на Python 3 от МФТИ</summary>
+
+* Ссылка: http://judge.mipt.ru/mipt_cs_on_python3/
+
+</details>
+
+<details>
+
+<summary>3. Канал Тимофея Хирьянова</summary>
+
+* Ссылка: https://www.youtube.com/c/%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%A5%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2
+
+</details>
+
+## Git
+
+<details>
+
+<summary>1. Learn Git Branching</summary>
+
+* Link: https://learngitbranching.js.org/
+* Description: interactive git simulator.
+
+</details>
+
+<details>
+
+<summary>2. Git Screencast</summary>
+
+* Ссылка: https://learn.javascript.ru/screencast/git
+* Описание: отличный скринкаст по git. Минус - довольно высокая скорость изложения материала, используйте паузу, чтобы успевать за автором.
+
+</details>
+
+## Docker
+
+<details>
+
+<summary>1. Docker in Action (2nd edition)</summary>
+
+* Authors: Jeff Nickoloff, Stephen Kuenzli
 
 </details>
