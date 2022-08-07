@@ -108,3 +108,32 @@
 * Link: https://github.com/yandexdataschool/nlp_course
 
 </details>
+
+## Computer Vision
+
+### Courses
+
+<details>
+
+<summary>1. The Ancient Secrets of Computer Vision</summary>
+
+* Link: https://pjreddie.com/courses/computer-vision/
+* Description:
+     ```
+     This class is a general introduction to computer vision. It covers standard techniques in image processing like filtering, edge detection, stereo, flow, etc. (old-school vision), as well as newer, machine-learning based computer vision. It was originally offered in the spring of 2018 at the University of Washington.
+     ```
+
+</details>
+
+## Data Engineering
+
+### Courses
+
+<details>
+
+<summary>1. Data Engineering Zoomcamp</summary>
+
+* Link: https://github.com/DataTalksClub/data-engineering-zoomcamp
+* Description: free Data Engineering course from DataTalks.Club.
+
+</details>
