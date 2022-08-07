@@ -45,6 +45,89 @@
 
 </details>
 
+<details>
+
+<summary>4. Amazon Machine Learning University</summary>
+
+* Link: https://aws.amazon.com/ru/machine-learning/mlu/
+
+</details>
+
+### Books
+
+<details>
+
+<summary>1. An Introduction to Information Retrieval</summary>
+
+* Authors: Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze
+* Link: https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf
+
+</details>
+
+<details>
+
+<summary>2. Pattern Recognition and Machine Learning (Information Science and Statistics)</summary>
+
+* Authors: Christopher M. Bishop
+
+</details>
+
+<details>
+
+<summary>3. Machine Learning: A Probabilistic Approach</summary>
+
+* Authors: Kevin Murphy
+
+</details>
+
+<details>
+
+<summary>4. The Elements of Statistical Learning: Data Mining, Inference, and Prediction</summary>
+
+* Authors: Trevor Hastie, Robert Tibshirani, Jerome Friedman
+* Link: https://hastie.su.domains/Papers/ESLII.pdf
+
+</details>
+
+<details>
+
+<summary>5. Учебник по машинному обучению</summary>
+
+* Авторы: Школа Анализа Данных (Яндекс)
+* Ссылка: https://ml-handbook.ru/
+
+</details>
+
+### Interview Preparation
+
+<details>
+
+<summary>1. Machine Learning Interviews Book</summary>
+
+* Authors: Chip Huyen
+* Link: https://huyenchip.com/ml-interviews-book/
+
+</details>
+
+<details>
+
+<summary>2. Machine Learning Systems Design</summary>
+
+* Authors: Chip Huyen
+* Link: https://huyenchip.com/machine-learning-systems-design/toc.html
+
+</details>
+
+<details>
+
+<summary>3. Материалы для подготовки по машинному обучению</summary>
+
+* Авторы: Tinkoff
+* Ссылка: https://www.tinkoff.ru/career/it/interview/ml/
+* Описание: содержит множество материалов для подготовки к собеседованию на вакансию DS/ML, включая алгоритмы, System Design и прочее. Многие источники пересекаются с тем, что перечислено в этом документе.
+
+</details>
+
 ## Deep Learning
 
 ### Courses
