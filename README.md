@@ -208,6 +208,72 @@
 
 </details>
 
+## Reinforcement Learning
+
+### Courses
+
+<details>
+
+<summary>1. YSDA Practical RL</summary>
+
+* Link: https://github.com/yandexdataschool/Practical_RL
+* Description:
+     ```
+     An open course on reinforcement learning in the wild. Taught on-campus at HSE and YSDA and maintained to be friendly to online students (both english and russian).
+     ```
+
+</details>
+
+<details>
+
+<summary>2. CS234: Reinforcement Learning</summary>
+
+* Link: http://web.stanford.edu/class/cs234/index.html
+
+</details>
+
+<details>
+
+<summary>3. Deep RL Bootcamp</summary>
+
+* Link: https://sites.google.com/view/deep-rl-bootcamp/lectures
+
+</details>
+
+<details>
+
+<summary>4. Implementation of Reinforcement Learning Algorithms</summary>
+
+* Link: https://github.com/dennybritz/reinforcement-learning
+* Description:
+     ```
+     Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
+     ```
+
+</details>
+
+### Books
+
+<details>
+
+<summary>1. Reinforcement Learning. An Introduction (2nd edition)</summary>
+
+* Authors: Richard S. Sutton, Andrew G. Barto
+* Link: http://incompleteideas.net/book/RLbook2020.pdf
+* Description: this is literally the Bible of Deep Learning.
+
+</details>
+
+<details>
+
+<summary>2. Reinforcement Learning Textbook</summary>
+
+* Авторы: Сергей Иванов
+* Ссылка: https://arxiv.org/abs/2201.09746
+* Описание: конспект (на 245 страниц!) по обучению с подкреплением на русском языке.
+
+</details>
+
 ## Data Engineering
 
 ### Courses
