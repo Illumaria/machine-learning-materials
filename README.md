@@ -197,7 +197,19 @@
 
 <details>
 
-<summary>3. Deep Learning with Catalyst</summary>
+<summary>3. Deep Learning School</summary>
+
+* Ссылка: https://www.dlschool.org/
+* Описание:
+     ```
+     Школа глубокого обучения (Deep Learning School) — это образовательный проект ФПМИ МФТИ. Мы ведём курсы по искусственному интеллекту для школьников и студентов, интересующихся программированием и математикой. Занятия ведут студенты и выпускники Физтех-школы прикладной математики и информатики МФТИ. 
+     ```
+
+</details>
+
+<details>
+
+<summary>4. Deep Learning with Catalyst</summary>
 
 * Link: https://github.com/catalyst-team/dl-course
 * Description: Deep Learning course made by Deep Learning School, Tinkoff, and Catalyst team.
