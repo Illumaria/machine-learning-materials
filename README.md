@@ -1,5 +1,31 @@
 # Machine Learning Materials
 
+## Table of Contents
+
+- [General](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#general)
+     - [Courses](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#courses)
+     - [Books](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#books)
+     - [Interview Preparation](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#interview-preparation)
+- [Deep Learning](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#deep-learning)
+     - [Courses](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#courses-1)
+     - [Books](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#books-1)
+- [Natural Language Processing](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#natural-language-processing)
+     - [Courses](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#courses-2)
+- [Computer Vision](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#computer-vision)
+     - [Courses](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#courses-3)
+- [Reinforcement Learning](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#reinforcement-learning)
+     - [Courses](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#courses-4)
+     - [Books](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#books-2)
+- [Data Analysis](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#data-analysis)
+     - [Courses](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#courses-5)
+     - [Books](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#books-3)
+- [Data Engineering](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#data-engineering)
+     - [Courses](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#courses-6)
+- [Other](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#other)
+     - [Python](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#python)
+     - [Git](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#git)
+     - [Docker](https://github.com/Illumaria/machine-learning-materials/edit/master/README.md#docker)
+
 ## General
 
 ### Courses
