@@ -263,6 +263,14 @@
 
 </details>
 
+<details>
+
+<summary>2. Huawei Natural Language Processing</summary>
+
+* Link: https://ods.ai/tracks/nlp-course
+
+</details>
+
 ## Computer Vision
 
 ### Courses
