@@ -283,6 +283,18 @@
 
 </details>
 
+<details>
+
+<summary>3. Нейронные сети и обработка текста</summary>
+
+* Ссылка: https://stepik.org/course/54098/promo
+* Описание:
+     ```
+     Авторы курса, эксперты Центра ИИ Samsung, доступным языком рассказывают, как начать работать с текстами при помощи нейросетей.
+     ```
+
+</details>
+
 ## Computer Vision
 
 ### Courses
@@ -295,6 +307,18 @@
 * Description:
      ```
      This class is a general introduction to computer vision. It covers standard techniques in image processing like filtering, edge detection, stereo, flow, etc. (old-school vision), as well as newer, machine-learning based computer vision. It was originally offered in the spring of 2018 at the University of Washington.
+     ```
+
+</details>
+
+<details>
+
+<summary>2. Нейронные сети и компьютерное зрение</summary>
+
+* Ссылка: https://stepik.org/course/50352/promo
+* Описание:
+     ```
+     Авторы курса, эксперты Samsung AI Center дадут базовые знания на примере решения задач компьютерного зрения.
      ```
 
 </details>
