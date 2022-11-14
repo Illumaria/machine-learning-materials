@@ -139,7 +139,7 @@
 <summary>5. Учебник по машинному обучению</summary>
 
 * Авторы: Школа Анализа Данных (Яндекс)
-* Ссылка: https://ml-handbook.ru/
+* Ссылка: https://academy.yandex.ru/handbook/ml
 
 </details>
 
