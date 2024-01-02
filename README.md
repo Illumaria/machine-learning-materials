@@ -13,7 +13,7 @@
      - [Courses](https://github.com/Illumaria/machine-learning-materials#courses-2)
 - [Computer Vision](https://github.com/Illumaria/machine-learning-materials#computer-vision)
      - [Courses](https://github.com/Illumaria/machine-learning-materials#courses-3)
-- [Audio & Speech](https://github.com/Illumaria/machine-learning-materials#audio)
+- [Audio & Speech](https://github.com/Illumaria/machine-learning-materials#audio--speech)
      - [Courses](https://github.com/Illumaria/machine-learning-materials#courses-4)
 - [Reinforcement Learning](https://github.com/Illumaria/machine-learning-materials#reinforcement-learning)
      - [Courses](https://github.com/Illumaria/machine-learning-materials#courses-5)
