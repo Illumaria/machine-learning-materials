@@ -325,7 +325,7 @@
 
 </details>
 
-## Audio
+## Audio & Speech
 
 ### Courses
 
