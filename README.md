@@ -13,14 +13,16 @@
      - [Courses](https://github.com/Illumaria/machine-learning-materials#courses-2)
 - [Computer Vision](https://github.com/Illumaria/machine-learning-materials#computer-vision)
      - [Courses](https://github.com/Illumaria/machine-learning-materials#courses-3)
-- [Reinforcement Learning](https://github.com/Illumaria/machine-learning-materials#reinforcement-learning)
+- [Audio & Speech](https://github.com/Illumaria/machine-learning-materials#audio)
      - [Courses](https://github.com/Illumaria/machine-learning-materials#courses-4)
+- [Reinforcement Learning](https://github.com/Illumaria/machine-learning-materials#reinforcement-learning)
+     - [Courses](https://github.com/Illumaria/machine-learning-materials#courses-5)
      - [Books](https://github.com/Illumaria/machine-learning-materials#books-2)
 - [Data Analysis](https://github.com/Illumaria/machine-learning-materials#data-analysis)
-     - [Courses](https://github.com/Illumaria/machine-learning-materials#courses-5)
+     - [Courses](https://github.com/Illumaria/machine-learning-materials#courses-6)
      - [Books](https://github.com/Illumaria/machine-learning-materials#books-3)
 - [Data Engineering](https://github.com/Illumaria/machine-learning-materials#data-engineering)
-     - [Courses](https://github.com/Illumaria/machine-learning-materials#courses-6)
+     - [Courses](https://github.com/Illumaria/machine-learning-materials#courses-7)
 - [Other](https://github.com/Illumaria/machine-learning-materials#other)
      - [Python](https://github.com/Illumaria/machine-learning-materials#python)
      - [Git](https://github.com/Illumaria/machine-learning-materials#git)
@@ -319,6 +321,23 @@
 * Описание:
      ```
      Авторы курса, эксперты Samsung AI Center дадут базовые знания на примере решения задач компьютерного зрения.
+     ```
+
+</details>
+
+## Audio
+
+### Courses
+
+<details>
+
+<summary>1. Audio Signal Processing for Machine Learning</summary>
+
+* Authors: Valerio Velardo
+* Link: https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0
+* Description:
+     ```
+     Master key audio signal processing concepts. Learn how to process raw audio data to power your audio-driven AI applications.
      ```
 
 </details>
